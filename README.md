@@ -1,2 +1,2 @@
 # Apple Seed Profiles
-Apple Software Testing Profiles
+Apple Software Testing Profiles.
